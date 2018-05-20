@@ -1,0 +1,28 @@
+{
+  "name": "corsair",
+  "version": "1.0.0",
+  "description": "CORSAIR",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server_scripts/app.js",
+    "test": "mocha tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.doc.ic.ac.uk:web5app/treas.git"
+  },
+  "author": "Nacho, Dan, Tom, Mery and Jaime",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "node-uuid": "^1.4.7",
+    "socket.io": "~1.4.6",
+    "chai": "~3.5.0",
+    "mocha": "~2.5.3",
+    "pg": "^5.0.0",
+    "dotenv": "~2.0.0"
+  },
+  "devDependencies": {
+    "chai": "~3.5.0"
+  }
+}
