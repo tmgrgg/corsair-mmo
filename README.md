@@ -9,7 +9,7 @@ Agar.io / Slither.io style online arena game themed around Pirates and the High 
 
 
 
-1. **git clone git://git@github.com:JayRod12/corsair.git**
+1. **clone this repo**
 2. Run **node server_scripts/app.js**
 3. Go to **http://localhost:3000**
 
