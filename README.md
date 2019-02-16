@@ -10,7 +10,7 @@ Agar.io / Slither.io style online arena game themed around Pirates and the High 
 
 
 1. **clone this repo**
-2. Run **node server_scripts/app.js**
+2. Run **node server_scripts/app.js** (pre: install node.js if not already installed)
 3. Go to **http://localhost:3000**
 
 Deployed in **corsair.herokuapp.com**
